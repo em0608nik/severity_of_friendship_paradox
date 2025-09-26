@@ -45,7 +45,7 @@ This repository contains resources and a Jupyter Notebook for analyzing and desi
 
      ```bash
      git clone https://github.com/em0608nik/severity_of_friendship_paradox.git
-     cd behaviour_analysis
+     cd severity_of_friendship_paradox
      ```
 
 2. **Run the Notebook**:
