@@ -94,7 +94,7 @@ Network 7 is a biological network, representing the protein connection in yeast.
 https://networkrepository.com/soc-hamsterster.php
   
 Hamsterster is of the friendships and family links between users of the website http://www.hamsterster.com. 
-**`BA-2`**
+* **`BA-2`**
 
   https://networkrepository.com/BA-2-24-60-L2.php 
   
