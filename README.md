@@ -96,9 +96,9 @@ https://networkrepository.com/soc-hamsterster.php
 Hamsterster is of the friendships and family links between users of the website http://www.hamsterster.com. 
 * **`BA-2`**
 
-  https://networkrepository.com/BA-2-24-60-L2.php 
+https://networkrepository.com/BA-2-24-60-L2.php 
   
-**`Eopinions`**
+* **`Eopinions`**
 
 https://networkrepository.com/soc-epinions.php
   
